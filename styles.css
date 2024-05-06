@@ -1,0 +1,28 @@
+h1 {
+	color: darkblue;
+	text-align: center;
+	border: 5px lightblue;
+	font-family: sans-serif;
+}
+h2 {
+	text-align: center;
+	font-family: sans-serif;
+	color: darkgreen;
+}
+body {
+	background-image: url(https://ik.imagekit.io/tvlk/blog/2018/03/Mt-Mayon-750x469.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.RizalParkDesc {
+	color: lightblue;
+}
+.ChocoHillsDesc {
+	color: lightblue;
+}
+.MayonVolcanoDesc {
+	color: lightblue;
+}
+.GALLERY-PAGE {
+	padding: 10pxs;
+}
